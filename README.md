@@ -16,6 +16,10 @@ to an alternate dimension, based on passenger data.
   - XGBoost (tuned): 80.3% validation accuracy
 - Submitted predictions to Kaggle leaderboard: **0.79424 public score**
 
+  
+## 🚀 Live Demo
+Try the live prediction app here: https://spaceship-titanic-alina.streamlit.app/
+
 ## Tools
 Python, pandas, scikit-learn, XGBoost
 
